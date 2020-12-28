@@ -28,3 +28,9 @@ I will also update this repo to contain the distributed implementation using MPJ
 IDE: Eclipse,
 Programming language: Java 8
 ___________________________________________________________________________________________________________
+5. Music Features Analysis
+Dataset analysis drawn on the dataset "Music Features" found here: https://www.kaggle.com/insiyeah/musicfeatures
+It was made mostly for fun and to get some practise with python's pandas and seaborn libraries.
+
+IDE: Jupyter Notebook,
+Programming language: Python 3.8.3
